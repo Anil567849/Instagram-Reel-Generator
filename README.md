@@ -1,10 +1,10 @@
 # Reel Assets Generator
-• Developed a reel asset generator using Node.js
-• Automated reel creation process and gained 500K+ followers
-• Reduced reel creation process time by 97%.
-• Implemented functionality to add text to images efficiently
-• Optimized image size for reel usage
-• Utilized Canvas and Jimp NPM libraries for image processing
+• Developed a reel asset generator using Node.js <br>
+• Automated reel creation process and gained 500K+ followers <br>
+• Reduced reel creation process time by 97%. <br>
+• Implemented functionality to add text to images efficiently <br>
+• Optimized image size for reel usage <br>
+• Utilized Canvas and Jimp NPM libraries for image processing <br>
 
 # Results
 
